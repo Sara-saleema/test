@@ -6,7 +6,7 @@
       "episode": 50000,
       "categorie":"A7 Series",
        "studio":"A70",
-      "img":"https://en.wikipedia.org/wiki/Samsung_Galaxy_A70#/media/File:GalaxyA70Phone.png"
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/GalaxyA70Phone.png/320px-GalaxyA70Phone.png"
    },
    {
       "name":"Samsung Galaxy M20",
@@ -15,7 +15,7 @@
       "episode": 27000,
       "categorie":"M Series",
        "studio":"M20",
-      "img":"https://en.wikipedia.org/wiki/Samsung_Galaxy_M20#/media/File:Front_of_the_Samsung_Galaxy_M20.jpg"
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Front_of_the_Samsung_Galaxy_M20.jpg/800px-Front_of_the_Samsung_Galaxy_M20.jpg"
    },
    {
       "name":"Samsung Galaxy Z Flip",
@@ -24,7 +24,7 @@
       "episode": 55000,
       "categorie":"Z Series",
       "studio":"Z-Flip",
-      "img":"https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Flip#/media/File:Samsung_Galaxy_Z_Flip_closed_cr.jpg"
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Samsung_Galaxy_Z_Flip_closed_cr.jpg/800px-Samsung_Galaxy_Z_Flip_closed_cr.jpg"
    },
    {
       "name":"samsung 32 inch lcd hd ready tv (32e420)",
@@ -33,7 +33,7 @@
       "episode": 70000,
       "categorie":"Smart TV",
       "studio":"32e420",
-      "img":"https://en.wikipedia.org/wiki/Smart_TV#/media/File:Sony_Bravia_Android_TV.jpg"
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sony_Bravia_Android_TV.jpg/1024px-Sony_Bravia_Android_TV.jpg"
    },
    {
      "name":"Samsung Gear",
